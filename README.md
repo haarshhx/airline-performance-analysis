@@ -63,6 +63,7 @@ The recommendation should be reviewed if:
 
 - Power BI
 - Microsoft Excel
+- python & AI
 - Data Cleaning and Validation
 - KPI Analysis
 - Weighted Scoring Model
