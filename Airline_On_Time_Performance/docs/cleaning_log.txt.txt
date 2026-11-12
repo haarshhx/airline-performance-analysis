@@ -1,0 +1,25 @@
+airline → OTP 
+
+Indigo
+Air India Group
+Akasa Air
+Alliance Air
+Spice Jet
+
+Cancellations
+
+Indiaone Air
+Alliance Air
+Spice Jet
+Star Air
+Fly91
+Air India Group
+Indigo
+Akasa Air 
+
+“Oct 2025: extracted OTP (p6) and cancellation (p2) with pdfplumber. Checked against the charts by eye.”
+
+“Extracted OTP, cancellation and complaints with pdfplumber, found each chart by its title text.”
+“April 2026: Alliance Air cancellation value was split across two lines in the PDF. Fixed by pairing it by position, and checked the order against the chart.”
+“April 2026: the Table 2 complaints-per-10,000 column was scrambled in extraction. Used the page 4 chart instead.”
+“Spot-check: X of X cells matched the PDF charts, including the extreme values. Seed 42.”

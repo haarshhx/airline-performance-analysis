@@ -1,0 +1,24 @@
+month,airline,metric,value,source_file,source_page,pdf_value,match
+2025-10,Alliance Air,canc,5.85,01 traffic Data Oct 25.pdf,2,5.85,yes
+2025-10,Fly91,canc,1.03,01 traffic Data Oct 25.pdf,2,1.03,yes
+2025-10,Star Air,compl,3,01 traffic Data Oct 25.pdf,4,3,yes
+2025-11,Fly91,canc,1.19,02 traffic Data Nov 25.pdf,2,1.19,yes
+2025-11,Alliance Air,otp,59,02 traffic Data Nov 25.pdf,6,59,yes
+2025-12,Indigo,canc,9.65,03 traffic Data Dec 25.pdf,2,9.65,yes
+2025-12,Indigo,compl,31.7,03 traffic Data Dec 25.pdf,4,31.7,yes
+2025-12,Akasa Air,compl,2.3,03 traffic Data Dec 25.pdf,4,2.3,yes
+2026-01,Indiaone Air,canc,54.66,04 traffic Data Jan 26_260227_201115.pdf,2,54.66,yes
+2026-02,Akasa Air,compl,3,05 Traffic Data Feb 26.pdf,4,3,yes
+2026-03,Alliance Air,canc,4.37,06 TrafficDataMar26.pdf,2,4.37,yes
+2026-03,Air India Group,canc,0.41,06 TrafficDataMar26.pdf,2,0.41,yes
+2026-05,Akasa Air,canc,0.14,08 traffic Data May 26.pdf,2,0.14,yes
+2026-05,Akasa Air,compl,2.1,08 traffic Data May 26.pdf,4,2.1,yes
+2026-05,Akasa Air,otp,78.3,08 traffic Data May 26.pdf,6,78.3,yes
+2026-06,Air India Group,compl,3.2,09 traffic Data June 26.pdf,4,3.2,yes
+2026-06,Spice Jet,otp,33.5,09 traffic Data June 26.pdf,6,33.5,yes
+2026-07,Indigo,canc,0.31,10 traffic Data July 26.pdf,2,0.31,yes
+2026-07,Alliance Air,canc,3.76,10 traffic Data July 26.pdf,2,3.76,yes
+2026-08,Spice Jet,canc,20.92,11 traffic Data August 26.pdf,2,20.92,yes
+2026-08,Fly91,canc,1.35,11 traffic Data August 26.pdf,2,1.35,yes
+2026-08,Akasa Air,compl,2.6,11 traffic Data August 26.pdf,4,2.6,yes
+2026-09,Spice Jet,otp,16.6,12 traffic Data Sep 26.pdf,6,16.6,yes
